@@ -1,0 +1,44 @@
+
+
+
+.isi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: peachpuff;
+    margin-bottom: 20px;
+  }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  
+  
+  p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
